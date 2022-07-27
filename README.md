@@ -2,7 +2,7 @@
 SAST.2022 后端免试题Demo
 
 文件结构
-
+```
 ├─.idea                                   idea的文件夹，不用管
 │  └─libraries                            
 ├─src           						
@@ -40,6 +40,7 @@ SAST.2022 后端免试题Demo
         └─com
             └─example
                 └─demo
+```
                 
 建表语句
 ```sql
